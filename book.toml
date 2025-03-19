@@ -1,0 +1,6 @@
+[book]
+authors = ["Riley Miller"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Intro to Programming with Python"
