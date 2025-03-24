@@ -1,5 +1,7 @@
 # Function Scope
 
+Variables in functions are treated differently.
+
 ```python
 a = 10
 
